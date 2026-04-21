@@ -65,7 +65,7 @@ Your progress is stored per-browser via localStorage, so different devices have 
 
 ## Credits
 
-Created with [Claude Code](https://www.claude.com/product/claude-code) by Anthropic.
+Created with [Claude.ai](https://www.claude.com/product/claude-code) by Anthropic.
 
 ## License
 
